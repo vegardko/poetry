@@ -1,0 +1,9 @@
+junk6.txt
+target/
+out/
+bin/
+.project
+.classpath
+.settings/
+*.log
+
