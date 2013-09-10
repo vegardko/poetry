@@ -79,10 +79,7 @@ drwxr-xr-x    3 tlberglund  staff        102 Aug 10  2012 eclipse-workspace
 drwxr-xr-x   43 tlberglund  staff       1462 Aug 30 22:57 github
 drwxr-xr-x   17 tlberglund  staff        578 Feb 13  2013 gradle-book-2
 drwxr-xr-x    3 tlberglund  staff        102 Jul 19 18:04 old-emacs
-drwxr-xr-x    6 tlberglund  staff        204 Aug 12 05:49 poems
 drwxr-xr-x    3 tlberglund  staff        102 Aug  1 08:34 recover
 drwxr-xr-x   21 tlberglund  staff        714 Sep  8 00:45 scripts
 drwxr-xr-x    2 tlberglund  staff         68 Aug 11 03:19 src
-drwxr-xr-x   28 tlberglund  staff        952 Oct  6  2012 timberglund.com
 drwxr-xr-x   16 tlberglund  staff        544 Jul 26  2012 workshops
-drwxr-xr-x   32 tlberglund  staff       1088 Jun 24 01:34 zachberglund.com
