@@ -2,17 +2,11 @@ total 1003376
 drwxr-xr-x+  95 tlberglund  staff       3230 Sep 10 11:08 .
 drwxr-xr-x    6 root        admin        204 Mar 17 09:55 ..
 -rw-------    1 tlberglund  staff          3 Jul 25  2012 .CFUserTextEncoding
--rw-r--r--@   1 tlberglund  staff      43012 Sep 10 10:37 .DS_Store
 drwx------   10 tlberglund  staff        340 Sep 10 10:39 .Trash
 -rw-------    1 tlberglund  staff          0 Feb 12  2013 .Xauthority
 drwxr-x--x    3 tlberglund  staff        102 Aug 27  2012 .adobe
 drwxr-xr-x    3 tlberglund  staff        102 Aug 31  2012 .atom
 -rw-------    1 tlberglund  staff        486 Mar 30 18:17 .bash_history
--rw-r--r--    1 tlberglund  staff        118 Jul 29  2012 .bash_login
--rw-r--r--    1 tlberglund  staff         59 Jul 29  2012 .bashrc
-drwxr-xr-x    3 tlberglund  staff        102 Aug 16 23:39 .boxen
-drwxr-xr-x    3 tlberglund  staff        102 Mar 19 15:41 .config
-drwx------    3 tlberglund  staff        102 Jul 28  2012 .cups
 -rw-r--r--    1 tlberglund  staff        212 Nov 29  2012 .dbshell
 drwx------   17 tlberglund  staff        578 Sep 10 01:21 .dropbox
 drwxr-xr-x    6 tlberglund  staff        204 May 19 04:24 .dvdcss
@@ -25,8 +19,6 @@ drwx------    2 tlberglund  staff         68 Aug 11 03:34 .git-credential-cache
 -rw-r--r--    1 tlberglund  staff        454 Sep 10 10:14 .gitconfig
 drwx------    3 tlberglund  staff        102 Jul 17 03:45 .github
 -rw-r--r--    1 tlberglund  staff         21 Dec  7  2012 .gitignore
--rw-r--r--    1 tlberglund  staff        896 Aug 15 03:10 .gitk
-drwx------   10 tlberglund  staff        340 May 27 17:33 .gnupg
 drwxr-xr-x    9 tlberglund  staff        306 Jul 16 14:24 .gradle
 drwxr-xr-x    4 tlberglund  staff        136 Sep  8  2012 .groovy
 -rw-r--r--    1 tlberglund  staff       1395 Jul 17 19:55 .h2.server.properties
